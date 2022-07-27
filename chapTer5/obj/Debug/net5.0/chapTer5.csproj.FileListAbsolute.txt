@@ -1,0 +1,16 @@
+C:\Users\HP\desktop\csharpFundamentals\chapTer5\bin\Debug\net5.0\chapTer5.exe
+C:\Users\HP\desktop\csharpFundamentals\chapTer5\bin\Debug\net5.0\chapTer5.deps.json
+C:\Users\HP\desktop\csharpFundamentals\chapTer5\bin\Debug\net5.0\chapTer5.runtimeconfig.json
+C:\Users\HP\desktop\csharpFundamentals\chapTer5\bin\Debug\net5.0\chapTer5.runtimeconfig.dev.json
+C:\Users\HP\desktop\csharpFundamentals\chapTer5\bin\Debug\net5.0\chapTer5.dll
+C:\Users\HP\desktop\csharpFundamentals\chapTer5\bin\Debug\net5.0\ref\chapTer5.dll
+C:\Users\HP\desktop\csharpFundamentals\chapTer5\bin\Debug\net5.0\chapTer5.pdb
+C:\Users\HP\desktop\csharpFundamentals\chapTer5\obj\Debug\net5.0\chapTer5.csproj.AssemblyReference.cache
+C:\Users\HP\desktop\csharpFundamentals\chapTer5\obj\Debug\net5.0\chapTer5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\desktop\csharpFundamentals\chapTer5\obj\Debug\net5.0\chapTer5.AssemblyInfoInputs.cache
+C:\Users\HP\desktop\csharpFundamentals\chapTer5\obj\Debug\net5.0\chapTer5.AssemblyInfo.cs
+C:\Users\HP\desktop\csharpFundamentals\chapTer5\obj\Debug\net5.0\chapTer5.csproj.CoreCompileInputs.cache
+C:\Users\HP\desktop\csharpFundamentals\chapTer5\obj\Debug\net5.0\chapTer5.dll
+C:\Users\HP\desktop\csharpFundamentals\chapTer5\obj\Debug\net5.0\ref\chapTer5.dll
+C:\Users\HP\desktop\csharpFundamentals\chapTer5\obj\Debug\net5.0\chapTer5.pdb
+C:\Users\HP\desktop\csharpFundamentals\chapTer5\obj\Debug\net5.0\chapTer5.genruntimeconfig.cache

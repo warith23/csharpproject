@@ -1,0 +1,16 @@
+C:\Users\HP\desktop\csharpFundamentals\chapTer1\obj\Debug\net5.0\chapTer1.csproj.AssemblyReference.cache
+C:\Users\HP\desktop\csharpFundamentals\chapTer1\obj\Debug\net5.0\chapTer1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\desktop\csharpFundamentals\chapTer1\obj\Debug\net5.0\chapTer1.AssemblyInfoInputs.cache
+C:\Users\HP\desktop\csharpFundamentals\chapTer1\obj\Debug\net5.0\chapTer1.AssemblyInfo.cs
+C:\Users\HP\desktop\csharpFundamentals\chapTer1\obj\Debug\net5.0\chapTer1.csproj.CoreCompileInputs.cache
+C:\Users\HP\desktop\csharpFundamentals\chapTer1\bin\Debug\net5.0\chapTer1.exe
+C:\Users\HP\desktop\csharpFundamentals\chapTer1\bin\Debug\net5.0\chapTer1.deps.json
+C:\Users\HP\desktop\csharpFundamentals\chapTer1\bin\Debug\net5.0\chapTer1.runtimeconfig.json
+C:\Users\HP\desktop\csharpFundamentals\chapTer1\bin\Debug\net5.0\chapTer1.runtimeconfig.dev.json
+C:\Users\HP\desktop\csharpFundamentals\chapTer1\bin\Debug\net5.0\chapTer1.dll
+C:\Users\HP\desktop\csharpFundamentals\chapTer1\bin\Debug\net5.0\ref\chapTer1.dll
+C:\Users\HP\desktop\csharpFundamentals\chapTer1\bin\Debug\net5.0\chapTer1.pdb
+C:\Users\HP\desktop\csharpFundamentals\chapTer1\obj\Debug\net5.0\chapTer1.dll
+C:\Users\HP\desktop\csharpFundamentals\chapTer1\obj\Debug\net5.0\ref\chapTer1.dll
+C:\Users\HP\desktop\csharpFundamentals\chapTer1\obj\Debug\net5.0\chapTer1.pdb
+C:\Users\HP\desktop\csharpFundamentals\chapTer1\obj\Debug\net5.0\chapTer1.genruntimeconfig.cache
